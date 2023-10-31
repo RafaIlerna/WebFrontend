@@ -1,0 +1,51 @@
+header {
+    background-color: #d3b7b7;
+    position: relative;
+    top: 0;
+    /* position: fixed;
+    top: 0; */
+    position: sticky;
+    top: 0;
+
+}
+
+body {}
+
+footer {
+    background-color: #1b1b1b;
+    color: #ffffff;
+}
+
+small {
+    font-family: Arial, Helvetica, 'Times New Roman';
+    font-size: 11px;
+}
+
+nav {
+    background-color: lightgrey;
+    
+}
+
+a {
+    color: #472f05;
+}
+
+a:active {
+    color: #871c0e
+}
+
+li {}
+
+
+
+
+/* 
+Color: Define el color del texto y el fondo.
+Fuentes: Define la fuente y el tamaño del texto.
+Margen: Define el espacio entre los elementos.
+Relleno: Define el espacio dentro de los elementos.
+Borde: Define el borde alrededor de los elementos.
+Ancho y altura: Define el ancho y la altura de los elementos.
+Posición: Define la posición de los elementos.
+Visualización: Define si un elemento es visible o no. 
+*/
